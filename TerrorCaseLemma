@@ -1,0 +1,3 @@
+package Final.NareshB
+
+case class TerrorCaseLemma (iyear: String, imonth:String, country: String, success: String,multiple: String, suicide: String, attackType: String, source1_txt: Seq[String] ,nkill:String)
